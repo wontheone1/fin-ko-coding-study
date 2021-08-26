@@ -1,3 +1,3 @@
-const myNumber = 3;
+const myNumber = 1 + 3;
 
 console.log(myNumber);
