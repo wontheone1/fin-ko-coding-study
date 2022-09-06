@@ -2,3 +2,6 @@
 	path = hyunbin/cpp-practice
 	url = https://github.com/ssarl2/cpp-practice.git
 	branch = advent_of_code_2018
+[submodule "wonseob/advent_of_code"]
+	path = wonseob/advent_of_code
+	url = https://github.com/wontheone1/advent_of_code.git
